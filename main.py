@@ -9,7 +9,7 @@ from models import Base
 from crud import create_booking
 
 app = FastAPI()
-
+ 
 # Creamos tablas con esto :  
 Base.metadata.create_all(bind=engine)
 
