@@ -1,0 +1,9 @@
+.datetime {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+
+.start {
+    margin: .4rem 0;
+}
